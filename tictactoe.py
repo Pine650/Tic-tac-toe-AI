@@ -299,5 +299,4 @@ def main():
                 game.running = False
             
         pygame.display.update()
-
 main()
